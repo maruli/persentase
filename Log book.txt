@@ -12,7 +12,7 @@ Anggota 2:
 	Nama: alfonso daniel
 	NIM:
 Anggota 3:
-	Nama: marulitua napitulu
+	Nama: marulitua situmorang
 	NIM:121110618
 Anggota 4:
 	Nama:
@@ -45,9 +45,25 @@ Daily Scrum
 2.
 3.
 
-(Nama Anggota 3): marulitua napitulu
+(Nama Anggota 3): marulitua  situmorang
 1.
 2.
 3.
+
+3/6
+Daily Scrum
+(Nama Anggota 1): muhammad andika
+1. memasukan slide dan pengcodingan tentang photoshop
+
+(Nama Anggota 2): alfonso daniel
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
+3.
+
 
 ...
