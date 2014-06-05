@@ -80,5 +80,20 @@ Daily Scrum
 2.mengcomit
 3.
 
+5/6
+Daily Scrum
+(Nama Anggota 1): muhammad andika
+1. memasukan slide dan pengcodingan tentang photoshop
+
+(Nama Anggota 2): alfonso daniel
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.mengclone repositori master 
+2.mengcomit
+3.
+
 
 ...
