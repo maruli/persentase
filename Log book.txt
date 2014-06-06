@@ -23,10 +23,12 @@ Anggota 4:
 SPRINT
 ------
 Sprint 1: 
-2/6 - 6/6
+2/6 - 5/6
 Scrummaster: Muhammad andika (121111711)
 
+6/6 - 10/6
 Sprint 2:
+Scrummaster : alfonso daniel ( )
 
 
 Sprint 3: 
@@ -93,6 +95,21 @@ Daily Scrum
 (Nama Anggota 3): marulitua  situmorang
 1.mengclone repositori master 
 2.mengcomit
+3.
+
+6/6
+Daily Scrum
+(Nama Anggota 1): muhammad andika
+1. memasukan slide dan pengcodingan tentang photoshop
+
+(Nama Anggota 2): alfonso daniel
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
 3.
 
 
