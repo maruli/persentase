@@ -1,0 +1,200 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:finix
+Judul Topik:fhotoshop
+Alamat Github: https://github.com/alfonsona70/persentase
+Alamat Trello: https://trello.com/b/A1j9bgB9/photoshop
+Anggota 1:
+	Nama:muhammad andika
+	NIM:121111711
+Anggota 2:
+	Nama: alfonso daniel
+	NIM:
+Anggota 3:
+	Nama: marulitua situmorang
+	NIM:121110618
+Anggota 4:
+	Nama:
+	NIM:
+=============================================================
+
+=============================================================
+SPRINT
+------
+Sprint 1: 
+2/6 - 5/6
+Scrummaster: Muhammad andika (121111711)
+
+6/6 - 10/6
+Sprint 2:
+Scrummaster : alfonso daniel ( )
+
+
+Sprint 3: 
+Scrummaster : Marulu tua situmorang ( )
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+2/6
+Daily Scrum PERTAMA
+(Nama Anggota 1): muhammad andika
+1. pembuatan template fhotoshop dengan bispoke
+
+(Nama Anggota 2): alfonso daniel
+1. mengclone fhotoshop dengan git bash
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
+3.
+
+3/6
+Daily Scrum
+(Nama Anggota 1): muhammad andika
+1. memasukan slide dan pengcodingan tentang photoshop
+
+(Nama Anggota 2): alfonso daniel
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
+3.
+
+4/6
+Daily Scrum
+(Nama Anggota 1): muhammad andika
+1. memasukan slide dan pengcodingan tentang photoshop
+
+(Nama Anggota 2): alfonso daniel
+1. mencomit
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.mengclone repositori master 
+2.mengcomit
+3.
+===========================================================
+-----------------------------------------------------------------------------------------------------------
+5/6
+Daily Scrum KEDUA
+(Nama Anggota 1): Alfonso daniel
+1. memasukan slide 
+2.commit log book
+
+(Nama Anggota 2): Muhammad andika
+1. membuat HTML
+2. mengcommit
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.mengclone repositori master 
+2.mengcomit
+3.
+
+
+6/6
+Daily Scrum
+(Nama Anggota 1):Alfonso daniel
+1. memasukan slide dan pengcodingan tentang photoshop
+
+(Nama Anggota 2): Muhammda andika
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
+3.
+
+
+7/6
+Daily Scrum
+(Nama Anggota 1):Alfonso daniel
+1. memasukan slide dan pengcodingan tentang photoshop
+
+(Nama Anggota 2): Muhammda andika
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
+3.
+
+===========================================================
+-----------------------------------------------------------------------------------------------------------
+8/6
+Daily Scrum KETIGA
+
+(Nama Anggota 1):Maruli Tua
+1. 
+
+(Nama Anggota 2): Muhammda andika
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
+3.
+
+9/6
+Daily Scrum
+(Nama Anggota 1):Maruli Tua
+1. 
+
+(Nama Anggota 2): Muhammda andika
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
+3.
+
+10/6
+Daily Scrum
+(Nama Anggota 1):Maruli Tua
+1. 
+
+(Nama Anggota 2): Muhammda andika
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
+3.
+
+11/6
+Daily Scrum
+(Nama Anggota 1):Maruli Tua
+1. 
+
+(Nama Anggota 2): Muhammda andika
+1. 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.
+2.
+3.
+
+
+
+...
