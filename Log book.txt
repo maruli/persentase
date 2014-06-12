@@ -48,8 +48,8 @@ Daily Scrum
 3.
 
 (Nama Anggota 3): marulitua  situmorang
-1.
-2.
+1.pencarian effec bahan untuk proyek
+2.saya ada kendala pada git bash
 3.
 
 3/6
@@ -59,11 +59,11 @@ Daily Scrum
 
 (Nama Anggota 2): alfonso daniel
 1. 
-2.
+2. 
 3.
 
 (Nama Anggota 3): marulitua  situmorang
-1.
+1.melakukan pencarian bahan untuk effec
 2.
 3.
 
@@ -147,6 +147,21 @@ Daily Scrum
 Daily Scrum
 (Nama Anggota 1): muhammad andika
 1. blur
+
+(Nama Anggota 2): alfonso daniel
+1.nge comit 
+2.
+3.
+
+(Nama Anggota 3): marulitua  situmorang
+1.comit
+2.
+3.
+
+12/6
+Daily Scrum
+(Nama Anggota 1): muhammad andika
+1. pembuatan effec
 
 (Nama Anggota 2): alfonso daniel
 1.nge comit 
