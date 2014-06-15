@@ -15,65 +15,104 @@ html
 
     article
 
-      section
+      section(data-bespoke-state='emphatic')
         h1 photoshop
-
-      section
-        h2 sketch && painting
-        h3 mengola foto menjadi efek lukisan cat air
-
-      section
-        h2 sekedar untuk semua
-        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-touch">bespoke-touch</a>
-
-
-      section
-        h2 Responsive Slides
-        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-scale">bespoke-scale</a>
-
-      section
-        h2 Bullet List
-        h3.bullet Powered by <a href="https://github.com/markdalgleish/bespoke-bullets">bespoke-bullets</a>
-        ul
-          li Bullet 1
-          li Bullet 2
-          li Bullet 3
-
-      section
-        h2 Syntax Highlighting
-        h3 Powered by <a href="http://twitter.com/LeaVerou">Lea Verou</a>'s <a href="https://github.com/LeaVerou/prism">Prism</a>
-        hr
-        pre
-          code.language-javascript.
-            bespoke.from('article', {
-              keys: true,
-              touch: true,
-              hash: true,
-              state: true,
-              bullets: 'li, .bullet'
-            });
-
-      section(data-bespoke-hash='named-route')
-        h2 Named Route
-        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-hash">bespoke-hash</a>
-        p Look up! This route has been named with a <em>'data-bespoke-hash'</em> attribute.
+        h2 sketch & painting
+        p tutorial membuat foto dengan efek lukisan cat air dalam nuansa full color
 
       section(data-bespoke-state='emphatic')
-        h2 Emphatic Slide!
-        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-state">bespoke-state</a>
+        <img src="gambar/Sherina-121.jpg" class="cool">
+        p model "sherina"
+      section(data-bespoke-state='emphatic')
+        <img src="gambar/awal.png">
+        p masukan gambar ke dalam fhotoshop
 
-      section
-        h2.bullet Just the beginning...
-        hr
-        ul
-          li Edit <a href="http://jade-lang.com/">Jade</a> markup in <em>'src/index.jade'</em>
-          li Edit <a href="http://learnboost.github.io/stylus/">Stylus</a> styles in <em>'src/styles/main.styl'</em>
-          li Edit JavaScript in <em>'src/scripts/main.js'</em>
-        hr
-        ul
-          li
-            strong Enjoy! :)
-            a(href='http://twitter.com/markdalgleish')  -@markdalgleish
+      section(data-bespoke-state='emphatic')
+        <img src="gambar/1.png">
+        p klik menu image > adjustment > levels karena gambar hanya memerlukan sedikit koreksi levels pilih auto level
+
+
+      section(data-bespoke-state='emphatic')
+        <img src="gambar/2.png">
+        p aktif pada "layer1" ubah nama menjadi "model". Klik menu Filter > Other > High Pass berikan nilai radius 1 pixels, klik OK
+
+      section(data-bespoke-state='emphatic')
+       <img src="gambar/3.png">
+       p selanjutnya tekan CTRL + ShIFT + U. Ubah mode Blending layer "model" menjadi Overlay
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/4.png">
+        p tekan ALT + SHIFT + CTRL + E , untuk menggabungkan background dengan model
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/4.5.png">
+        p duplikat layer1 ubah nama menjadi mcutout lalu masuk ke menu filter > blur > surface blur. atur nilai radius = 20 dan threshold = 15 setelah selesai
+      
+
+      section(data-bespoke-state='emphatic')
+        <img src="gambar/5.png">
+        p masuk ke menu filter galerry > cutout atur parameter sesuai gambar 
+
+      section(data-bespoke-state='emphatic')
+        <img src="gambar/6.png">
+        p duplikat layer m_cutout rename menjadi "m_cutout soft" ganti mode blending menjadi Soft Light
+
+      section(data-bespoke-state='emphatic')
+        <img src="gambar/7.png">
+        p duplikat lagi layer m_cutout soft rename menjadi "m_cutout multy" ganti mode blending menjadi Multiply
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/8.png">
+        p kembali ke levels geser slider white point ke nilai 152
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/9.png">
+        p masi tetap di layer m_cutout multy klik menu Filter > Artistic > Poster Edges atur parameter sesuai gambar 
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/10.png">
+        p duplicat layer1 rename "model_BW" lalu pindahkan posisi ke atas m_cutout multy 
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/11.png">
+        p lalu tekan CTRL + SHIFT + U untuk merubah warna menjadi black and white
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/12.png">
+        p duplikat layer model_BW aktif pada layer model_BW copy klik menu filter > other > maximum atur radius sesuai gambar
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/13.png">
+        p tekan CTRL + I dan ubah mode blending menjadi Color Dodge sesuaikan hasil seperti gambar 
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/14.png">
+        p pilih layer model_BW and model_BW copy selanjutnya tekan CTRL + E maka layer akan menjadi satu lalu rename menjadi outline
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/15.png">
+        p di layer outline ubah blending menjadi lighten 
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/16.png">
+        p duplikat layer m_cutout lalu letakan di atas layer outline ubah mode blending menjadi Hard Light
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/17.png">
+        p hasil setelah blending di ubah 
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/18.png">
+        p buat layer baru letakan di posisi paling atas gunakan brush tool ubah opacity menjadi 50% lalu padukan warna sesuai gambar 
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/19.png">
+        p ubah blending di layer baru menjadi Overlay dan finish... 
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/finising.png" class="yes">
+
+      selection(data-bespoke-state='emphatic')
+        <img src="gambar/finish_black.png" class="yes">
 
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
